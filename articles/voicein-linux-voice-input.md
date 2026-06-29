@@ -3,7 +3,7 @@ title: "OpenAIのAPIキーだけで動くLinux音声入力ツールを作った"
 emoji: "🎤"
 type: "tech"
 topics: ["linux", "openai", "音声入力", "wayland", "python"]
-published: true
+published: false
 ---
 
 ## 概要
